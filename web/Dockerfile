@@ -1,4 +1,4 @@
-FROM node:8.11-stretch
+FROM node:carbon
 
 ENV NODE_ENV production
 ENV PORT 3000
